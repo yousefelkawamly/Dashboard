@@ -1,0 +1,284 @@
+.m-l {
+    margin-left: 20px;
+}
+.m-r {
+    margin-right: 20px;
+}
+.p {
+    padding: 20px;
+}
+.pt {
+    padding-top: 20px;
+}
+.bg-w {
+    background-color: white;
+}
+.bg-eee {
+    background-color: #eee;
+}
+.m-t-5 {
+    margin-top: 5px;
+}
+.radius {
+    border-radius: 6px;
+    -webkit-border-radius: 6px;
+    -moz-border-radius: 6px;
+    -ms-border-radius: 6px;
+    -o-border-radius: 6px;
+}
+.radius-50 {
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+}
+.border-ccc {
+    border: 1px solid #ccc;
+}
+.border-r {
+    border-right: 1px solid #eee;
+}
+.align {
+    text-align: center;
+}
+.p-r-50 {
+    padding-right: 10px;
+}
+.m-t-20 {
+    margin-top: 15px;
+}
+.flex-end {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.flex-start {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+.column-center {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.p-le {
+    padding-left: 10px;
+}
+.col {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.flex-center {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.max {
+    max-width: 50%;
+}
+.d-flex {
+    display: flex;
+}
+.between {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.main-tran {
+    transition: 0.4s;
+    -webkit-transition: 0.4s;
+    -moz-transition: 0.4s;
+    -ms-transition: 0.4s;
+    -o-transition: 0.4s;
+}
+.auto {
+    width: auto;
+}
+.w-full {
+    width: 100%;
+}
+.h-full {
+    height: 100%;
+}
+.p-15 {
+    padding: 15px;
+}
+.input-rad {
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+.p-relative {
+    position: relative;
+}
+.p-absolute {
+    position: absolute;
+}
+.align-items {
+    align-items: center;
+}
+.gray-bg {
+    background-color: gray;
+}
+.color-bg {
+    color: gray;
+}
+.m-t {
+    margin-top: 5px;
+}
+h2 {
+    font-weight: bolder;
+}
+.p-t-10 {
+    padding-top: 10px;
+}
+.p-10 {
+    padding: 10px;
+}
+.m-b {
+    margin-bottom: 10px;
+}
+.m-b-5 {
+    margin-bottom: 5px;
+}
+.m-r-10 {
+    margin-right: 10px;
+}
+.color-bla {
+    color: black;
+}
+.m-r {
+    margin-right: 20px;
+}
+.wrap-flex {
+    flex-wrap: wrap;
+}
+.h2-font {
+    font-size: 20px;
+}
+.p-t-5 {
+    padding-top: 5px;
+}
+.float-c {
+    float: right;
+}
+.p-b-5 {
+    padding-bottom: 5px;
+}
+.rad-fivty {
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+}
+@media (max-width:772px) {
+    .hid-mo {
+        display: none;
+    }
+}
+.font-weight {
+    font-weight: 900;
+}
+.font-weight-p {
+    font-weight: 600;
+}
+.p-font-20 {
+    font-size: 19px;
+}
+.p-font-12 {
+    font-size: 12px;
+}
+.friend-heigh {
+    height: 455vh;
+}
+.bg-eee {
+    background-color: #eee;
+}
+.border {
+    border: 1px solid #eee;
+}
+.p-b {
+    padding-bottom: 20px;
+}
+.p-t {
+    padding-top: 20px;
+}
+.p-b-10 {
+    padding-bottom: 13px;
+}
+.p-t-10 {
+    padding-top: 13px;
+}
+.border-b {
+    border-bottom: 1px solid #cacaca4f;
+}
+.border-p {
+    border-top: 1px solid #cacaca4f;
+}
+.border {
+    border: 1px solid #eee;
+}
+.p-fixed {
+    position: fixed;
+}
+.through {
+    text-decoration: line-through;
+}
+.opacity {
+    opacity: 0.4;
+}
+.p-font {
+    font-size: 13px;
+}
+.m-b-20 {
+    margin-bottom: 20px;
+}
+.p-b-70 {
+    padding-bottom: 70px;
+}
+.line-h {
+    line-height: 30px;
+}
+.m-r-5 {
+    margin-right: 5px;
+}
+.border-w {
+    border: 2px solid white;
+}
+.main-grid {
+    display: grid;
+    gap: 20px;
+    grid-template-columns: repeat(auto-fill, minmax(460px, 1fr));
+    grid-template-rows: repeat(10, auto);
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.float-l {
+    text-align: right;
+}
+.pf-15 {
+    font-size: 15px;
+}
+@media (max-width:772px) {
+    .main-grid {
+        display: grid;
+        gap: 20px;
+        grid-template-columns: repeat(1, minmax(100px, 1fr));
+        grid-template-rows: repeat(auto-fill, auto);
+        margin-left: 20px;
+        margin-right: 20px;
+        margin-bottom: 20px;
+    }
+}
